@@ -1,0 +1,10 @@
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\DataService.dll.config
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\DataService.dll
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\DataService.pdb
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\EntityFramework.dll
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\EntityFramework.xml
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\obj\Debug\DataService.dll
+C:\Users\mmx\Documents\Visual Studio 2015\Projects\TestTask\DataService\obj\Debug\DataService.pdb
